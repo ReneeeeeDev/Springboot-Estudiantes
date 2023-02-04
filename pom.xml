@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>G5expo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>G5expo</name>
 	<description>grupo 5</description>
 	<properties>
